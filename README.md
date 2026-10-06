@@ -11,7 +11,10 @@
 
 ## 👋 About Me
 
-I study **Automotive IT Convergence at Kookmin University** and serve on the **KUSE organizing team**, where I lead a system hacking study. I aim to become an Automotive Cybersecurity Engineer, focusing on in-vehicle networks and security testing.
+- **Education** — B.S. student in Automotive IT Convergence, Kookmin University
+- **Community** — KUSE organizer and System Hacking Study Leader
+- **Career goal** — Automotive Cybersecurity Engineer
+- **Focus** — In-vehicle networks, CAN fuzzing, and security testing
 
 ## 🚗 Featured Projects
 
