@@ -1,58 +1,58 @@
-# Dong-Hyun Kang
+<picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-mobile.svg">
+  <img src="./assets/hero.svg" alt="Dong-Hyun Kang — aspiring Automotive Cybersecurity Engineer at Kookmin University" width="100%">
+</picture>
 
-**Aspiring Automotive Cybersecurity Engineer** · B.S. student in Automotive IT Convergence, Kookmin University
+<p align="center">
+  <a href="https://github.com/26-2-Fuzzing/auto-fuzz-26-1/tree/dev"><img alt="Featured project: Multi-Bus Fuzzing" src="https://img.shields.io/badge/FEATURED_PROJECT-Multi--Bus_Fuzzing-18B6B0?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1220"></a>
+  <a href="https://www.linkedin.com/in/cannhyun"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=0B1220"></a>
+  <a href="mailto:canhyeon@kookmin.ac.kr"><img alt="Send email" src="https://img.shields.io/badge/Email-Contact-F7B955?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;labelColor=0B1220"></a>
+</p>
 
-I study in-vehicle networks, automotive security testing, and embedded security. My current work focuses on multi-bus CAN fuzzing and feedback-driven test design.
+## 👋 About Me
 
-## Current Focus
+I study **Automotive IT Convergence at Kookmin University** and serve on the **KUSE organizing team**, where I lead a system hacking study. I aim to become an Automotive Cybersecurity Engineer, focusing on in-vehicle networks and security testing.
 
-- Multi-bus CAN fuzzing and cross-bus feedback
-- Automotive network security testing and validation
-- Firmware and embedded security
+## 🚗 Featured Projects
 
-## Featured Projects
+### Multi-Bus Automotive Fuzzing
 
-### Multi-Bus Automotive Fuzzing · Team Lead · In progress
+**Team Lead · 2020 Audi A5 · In progress**  
+Leading a team-built Python multi-bus CAN fuzzer. I connected to the J533 gateway and contributed mutation, anomaly feedback, and distributed-trial components to the shared codebase.
 
-Leading a team project targeting a 2020 Audi A5. I investigated the J533 vehicle network gateway, located it in the car, and connected to Powertrain, Body, and Infotainment CAN traffic. In the shared Python codebase, I implemented multi-bus anomaly feedback components, phased CAN mutation, a trial-based feedback pipeline, targeted A5 message mutations, and offline distributed trials.
-
-The current research explores timing, DBC signal, and cross-bus feedback strategies.
-
-**Stack:** Python · CAN · DBC · multi-bus monitoring and feedback  
-**Links:** [Team repository](https://github.com/26-2-Fuzzing/auto-fuzz-26-1/tree/dev) · [My commits](https://github.com/26-2-Fuzzing/auto-fuzz-26-1/commits/dev/?author=canhyeon-debug)
+<a href="https://github.com/26-2-Fuzzing/auto-fuzz-26-1/tree/dev"><img alt="Open team repository" src="https://img.shields.io/badge/TEAM_REPO-Explore-18B6B0?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1220"></a>
+<a href="https://github.com/26-2-Fuzzing/auto-fuzz-26-1/commits/dev/?author=canhyeon-debug"><img alt="See my commits" src="https://img.shields.io/badge/MY_COMMITS-View-F7B955?style=flat-square&amp;logo=git&amp;logoColor=white&amp;labelColor=0B1220"></a>
 
 ### AutoHack 2026 · EVSE Team
 
-Contributing to an automotive cybersecurity CTF challenge built around a physical EV charging device and a simulated environment. My work includes charging-controller firmware analysis and a QEMU-based management and test environment for studying publicly disclosed vulnerabilities.
+Analyzing EV charging-controller firmware and building a QEMU-based test environment for an automotive security CTF challenge.
 
-**Stack:** Firmware analysis · QEMU · security testing
+### SEA:ME Hackathon 2026 · Autonomous Scale-Car
 
-### SEA:ME Hackathon 2026 · Autonomous Scale-Car Challenge
+Contributed OpenCV lane perception and PD steering to a team-built ROS 2 driving pipeline; tuned them through physical track tests.
 
-Contributed to a team-built ROS 2 autonomous-driving pipeline, including OpenCV lane perception, PD steering, throttle control, and physical driving tests. I tuned lane detection and steering for the indoor track and helped analyze camera contention and battery-voltage sag.
+<a href="https://github.com/canhyeon-debug/SEA-ME_HACKATHON2026"><img alt="Open the SEA:ME project fork" src="https://img.shields.io/badge/PROJECT_FORK-View_Code-18B6B0?style=flat-square&amp;logo=github&amp;logoColor=white&amp;labelColor=0B1220"></a>
 
-**Stack:** ROS 2 · Python · OpenCV · perception and control  
-**Repository:** [SEA-ME_HACKATHON2026](https://github.com/canhyeon-debug/SEA-ME_HACKATHON2026) (fork of the team project)
+## ⚡ Experience
 
-### KUSE System Hacking Study · Study Leader
+- **Vector Korea Challenge Validation:** Tested CANoe-based security challenges with VT6061, VN1670, VN1610, and CAPL.
+- **KUSE System Hacking Study:** Lead weekly Dreamhack fundamentals and wargame sessions covering ROP, ret2libc, GDB, and pwntools.
 
-Led weekly study and wargame sessions based on Dreamhack System Hacking Fundamentals, with peer review of binary exploitation exercises covering ROP, ret2libc, GDB/pwndbg, and pwntools.
+## 🛠️ Skills & Tools
 
-## Experience
+**Intermediate · Python, C, Linux/Ubuntu, Git/GitHub**  
+<img src="https://skillicons.dev/icons?i=py,c,linux,ubuntu,git,github&amp;theme=dark" alt="Python, C, Linux, Ubuntu, Git, and GitHub skill icons" height="48">
 
-**AutoHack 2026 — Vector Korea Challenge Validation:** Validated CANoe-based automotive cybersecurity challenges using VT6061, VN1670, and VN1610. Worked with Trace, Write, Simulation, Interactive Generator, Panels, System Variables, and CAPL test logic.
+**Project experience · ROS 2, OpenCV**  
+<img src="https://skillicons.dev/icons?i=ros,opencv&amp;theme=dark" alt="ROS and OpenCV skill icons" height="48">
 
-## Technical Skills
+**Automotive & security**  
+![CAN: intermediate](https://img.shields.io/badge/CAN-Intermediate-18B6B0?style=flat-square&labelColor=0B1220) ![CANoe and CAPL: beginner](https://img.shields.io/badge/CANoe%2FCAPL-Beginner-F7B955?style=flat-square&labelColor=0B1220) ![GDB: beginner](https://img.shields.io/badge/GDB-Beginner-F7B955?style=flat-square&labelColor=0B1220)
 
-- **Languages:** Python, C (intermediate)
-- **Automotive:** CAN (intermediate); CANoe/CAPL (beginner)
-- **Security:** CAN fuzzing, firmware analysis, system hacking fundamentals
-- **Tools:** Linux/Ubuntu, Git/GitHub (intermediate); GDB (beginner)
+## 🏆 Award
 
-## Award
+**CTF Winner** · 32nd Hacking Camp, POC Security (February 2026)
 
-**CTF Winner** — 32nd Hacking Camp, POC Security (February 2026)
-
-## Contact
+## 📬 Contact
 
 [GitHub](https://github.com/canhyeon-debug) · [LinkedIn](https://www.linkedin.com/in/cannhyun) · [Email](mailto:canhyeon@kookmin.ac.kr)
