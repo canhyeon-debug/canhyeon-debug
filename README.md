@@ -25,7 +25,7 @@ Leading a team-built Python multi-bus CAN fuzzer. I connected to the J533 gatewa
 
 ### AutoHack 2026 · EVSE Team
 
-Analyzing EV charging-controller firmware and building a QEMU-based test environment for an automotive security CTF challenge.
+Contributing to AutoHack 2026 challenge development. Further project details will be shared after the event.
 
 ### SEA:ME Hackathon 2026 · Autonomous Scale-Car
 
@@ -35,7 +35,7 @@ Contributed OpenCV lane perception and PD steering to a team-built ROS 2 driving
 
 ## ⚡ Experience
 
-- **Vector Korea Challenge Validation:** Tested CANoe-based security challenges with VT6061, VN1670, VN1610, and CAPL.
+- **Vector Korea Challenge Validation:** Supporting test and validation of automotive cybersecurity challenges.
 - **KUSE System Hacking Study:** Lead weekly Dreamhack fundamentals and wargame sessions covering ROP, ret2libc, GDB, and pwntools.
 
 ## 🛠️ Skills & Tools
